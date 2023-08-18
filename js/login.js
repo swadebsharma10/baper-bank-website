@@ -13,3 +13,4 @@ document.getElementById('btn-submit').addEventListener('click',function(){
     alert('Please provide Your valid Password')
    }
 })
+
